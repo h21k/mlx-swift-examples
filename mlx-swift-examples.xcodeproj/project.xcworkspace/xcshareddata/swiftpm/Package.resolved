@@ -15,8 +15,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/ml-explore/mlx-swift",
       "state" : {
-        "branch" : "main",
-        "revision" : "cf2c5d20c8575b375cb0d97a06ae0199527b5f32"
+        "revision" : "36d63a1fc386a551df14f5b67df1756dc17d2ebc",
+        "version" : "0.12.1"
       }
     },
     {
@@ -61,7 +61,7 @@
       "location" : "https://github.com/gonzalezreal/swift-markdown-ui",
       "state" : {
         "branch" : "main",
-        "revision" : "ae799d015a5374708f7b4c85f3294c05f2a564e2"
+        "revision" : "c0daf6eb79d97964180f3113868c990bd1c4a007"
       }
     },
     {
@@ -78,8 +78,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/huggingface/swift-transformers",
       "state" : {
-        "branch" : "main",
-        "revision" : "74b94211bdc741694ed7e700a1104c72e5ba68fe"
+        "revision" : "fc6543263e4caed9bf6107466d625cfae9357f08",
+        "version" : "0.1.8"
       }
     }
   ],
